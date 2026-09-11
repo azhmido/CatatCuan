@@ -1,0 +1,73 @@
+/* ==========================================================================
+   CatatCuan Design System — Clean, Simple & Professional Modern FinTech
+   Warm Stone Neutral (#F5F6F4) + Deep Pine Slate (#0F291E)
+   Executive Emerald Accent (#047857) + Ivory Matte Surface (#FAFBF9)
+   ========================================================================== */
+
+:root {
+  /* Surface & Background: Warm Stone Paper — Calm, tactile, non-sterile foundation */
+  --color-bg: #f5f6f4;
+  --color-surface: #fafbf9;
+  --color-surface-sunken: #edf0ec;
+  
+  /* Primary Brand: Deep Pine Slate (Authoritative, executive fintech feel) */
+  --color-primary: #0f291e;
+  --color-primary-dark: #071710;
+  --color-primary-light: #18382b;
+  --color-primary-foreground: #ffffff;
+
+  /* Secondary: Soft Sage/Stone Neutral */
+  --color-secondary: #eef1ec;
+  --color-secondary-foreground: #1e2e24;
+
+  /* Accent Signature: Executive Emerald (Solid, professional, high-trust) */
+  --color-accent: #047857;
+  --color-accent-hover: #065f46;
+  --color-accent-foreground: #ffffff;
+  --color-accent-tint: #ecfdf5;
+
+  /* Text Typography: Deep Pine Charcoal with High-Contrast WCAG AAA */
+  --color-text: #121a15;
+  --color-text-muted: #526356;
+  
+  /* Borders: Warm natural 1px dividers */
+  --color-border: #dfe4de;
+  --color-border-dashed: #cbd3cb;
+
+  /* Fiscal Status: Semantic indicators */
+  --color-success: #047857;
+  --color-success-bg: #ecfdf5;
+  --color-success-border: #a7f3d0;
+  --color-success-foreground: #065f46;
+
+  --color-warning: #d97706;
+  --color-warning-bg: #fffbeb;
+  --color-warning-border: #fde68a;
+  --color-warning-foreground: #b45309;
+
+  --color-danger: #dc2626;
+  --color-danger-bg: #fef2f2;
+  --color-danger-border: #fecaca;
+  --color-danger-foreground: #b91c1c;
+
+  /* Status Terkirim: Warm Amber / Pending (distinct from emerald lunas) */
+  --color-info: #d97706;
+  --color-info-bg: #fffbeb;
+  --color-info-border: #fde68a;
+  --color-info-foreground: #b45309;
+
+  /* Modern Sans-Serif Typography */
+  --font-heading: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-mono: 'Space Mono', monospace;
+
+  /* Modern Balanced Geometry */
+  --radius-sharp: 4px;
+  --radius-base: 8px;
+  
+  /* Natural Clean Shadows */
+  --shadow-card: 0 1px 3px 0 rgba(15, 41, 30, 0.04), 0 1px 2px -1px rgba(15, 41, 30, 0.03);
+  --shadow-card-hover: 0 4px 6px -1px rgba(15, 41, 30, 0.06), 0 2px 4px -2px rgba(15, 41, 30, 0.04);
+  --shadow-press: 0 1px 2px 0 rgba(15, 41, 30, 0.04);
+  --shadow-stamp: 0 1px 2px 0 rgba(15, 41, 30, 0.04);
+}

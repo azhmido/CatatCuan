@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 48" width="200" height="48" fill="none">
+  <!-- Brand Badge Icon -->
+  <rect x="2" y="6" width="36" height="36" rx="10" fill="#0f291e"/>
+  <text x="20" y="30" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="16" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="-0.5">CC</text>
+  <circle cx="30" cy="14" r="3.5" fill="#047857"/>
+  
+  <!-- Wordmark -->
+  <text x="48" y="31" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="20" font-weight="800" fill="#0f291e" letter-spacing="-0.5">Catat<tspan fill="#047857">Cuan</tspan></text>
+</svg>
